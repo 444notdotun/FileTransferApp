@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37802bdd-787c-4c85-b42b-ab8325565034" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/FiletransferApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/controller/ReadFileContoller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/dtos/request/FileReaderAndWriterRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/dtos/response/FileReaderAndWriterResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/dtos/response/FileReaderResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/exception/FileReaderException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/exception/FileTransferException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/service/FileReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/service/FileReaderAndWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/service/FileReaderAndWriterImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/service/FileReaderImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/java/filetransfer/filetransfer/utils/result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/test/java/FileReaderAndWriterImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/src/test/java/filetransfer/filetransfer/FiletransferApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hcf/Hcf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleBank/SimpleBank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../morning task 26 jan/morning task 26 jan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileTransferApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileTransferApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileTransferApp/Filetransfer/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/notdotun/Desktop/GITHUB/FileTransferApp",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
